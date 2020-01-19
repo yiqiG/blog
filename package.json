@@ -1,0 +1,25 @@
+{
+  "name": "my_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiqiG/my_blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiqiG/my_blog/issues"
+  },
+  "homepage": "https://github.com/yiqiG/my_blog#readme",
+  "dependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-theme-reco": "^1.2.1"
+  }
+}
