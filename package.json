@@ -20,6 +20,6 @@
   "homepage": "https://github.com/yiqiG/my_blog#readme",
   "dependencies": {
     "vuepress": "^1.2.0",
-    "vuepress-theme-reco": "^1.2.1"
+    "vuepress-theme-reco": "^1.6.14"
   }
 }
